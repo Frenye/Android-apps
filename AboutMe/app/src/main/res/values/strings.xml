@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ruben De Freyne</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Ruben
+    \n\nI am a computer science student at hogent.
+    \n\nCurrently I am learning the basics of android app development.
+    \n\nI am using the udacity course.
+    \n\nI like gaming, coding and watching series.
+    \n\nAt home, I have two orange cats.
+    \n\nThe languages i can code in are: Java, C#, Javascript, HTML, CSS, ...
+        \n\nI made this app with android studio on a MacBook Air.
+        \n\nRuben De Freyne 2019
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
